@@ -41,7 +41,6 @@ I am an Informatics and Computer Science passionate about building technology th
 
 ## Connect With Me
 
-- 💼 **Professional Network:** [Link to your LinkedIn, Portfolio, or CV]
 - 📧 **Direct Contact:** [preciousmwende05@gmail.com]
 
 <p align="center">
